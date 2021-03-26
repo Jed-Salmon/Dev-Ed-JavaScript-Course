@@ -1,0 +1,19 @@
+h1 {
+  transition: all 0.4s ease;
+}
+
+.spectacular {
+  color: blue;
+  font-size: 80px;
+  transform: translateX(200px) translateY(50px) rotateX(360deg);
+}
+
+.keyPress {
+  color: green;
+  font-size: 30px;
+  transform: translateX(100px) translateY(100px) rotateX(-360deg);
+}
+
+.fade {
+  opacity: 0;
+}
